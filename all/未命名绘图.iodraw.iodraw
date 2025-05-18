@@ -69,7 +69,7 @@
         <mxCell id="GjAz1YDM40xFD4sRgryw-0" value="注册账户" style="whiteSpace=wrap;html=1;rounded=1;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="470" y="180" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="GjAz1YDM40xFD4sRgryw-5" value="" style="whiteSpace=wrap;html=1;rounded=1;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="GjAz1YDM40xFD4sRgryw-5" value="进入软件" style="whiteSpace=wrap;html=1;rounded=1;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="360" y="400" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
